@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fayyadh Satria Utama</h1>
 <h3 align="center">Information System from Institut Teknologi Sepuluh Nopember</h3>
 
-<p style="display: flex; align-items: center; gap: 10px;">
+<p>
   🌱 I’m currently learning 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
