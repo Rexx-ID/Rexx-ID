@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fayyadh Satria Utama</h1>
 <h3 align="center">Information System from Institut Teknologi Sepuluh Nopember</h3>
 
-🌱 I’m currently learning  
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
-and
-[![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://golang.org)
+<p align="left">
+  🌱 I’m currently learning
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="60"/>
+</p>
 
 - 💬 Ask me about **anything**
 
